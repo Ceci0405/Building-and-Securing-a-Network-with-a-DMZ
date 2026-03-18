@@ -57,7 +57,6 @@ ACLs: Se creó una lista de control de acceso para proteger la LAN.
 
 ### 5. Verificaciones realizadas
 
-> Describe las pruebas y su resultado. Incluye capturas o salidas de comandos si se puede.
 
 - `ping` desde PC_Internal al router: ✅
 - Acceso web desde PC_External: ✅
